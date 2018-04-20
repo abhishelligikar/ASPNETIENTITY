@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityApp", "AspNetIdentityApp\AspNetIdentityApp.csproj", "{BF36CF07-8210-4DC4-95F2-163CDCB630AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityIUAApp", "AspNetIdentityIUAApp\AspNetIdentityIUAApp.csproj", "{8ED146EC-3525-4569-B68C-213086E5AAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF36CF07-8210-4DC4-95F2-163CDCB630AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF36CF07-8210-4DC4-95F2-163CDCB630AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF36CF07-8210-4DC4-95F2-163CDCB630AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF36CF07-8210-4DC4-95F2-163CDCB630AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED146EC-3525-4569-B68C-213086E5AAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED146EC-3525-4569-B68C-213086E5AAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED146EC-3525-4569-B68C-213086E5AAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED146EC-3525-4569-B68C-213086E5AAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20AFFE11-E3A5-4A39-BDC4-4BAD2C5C300F}
+	EndGlobalSection
+EndGlobal
